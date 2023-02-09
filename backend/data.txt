@@ -1,0 +1,54 @@
+-- Pinsa
+Pinsa Margherita 27.50 zł (ser mozzarella, sos pomidorowy)
+Pinsa Tradizionale 33 zł (ser mozzarella, ser pecorino, boczek, pieczarki, sos pomidorowy)
+Pinsa Piccante 33 zł (ser mozzarella, boczek, szynka, salami, papryka jalapenio, pieczarki, sos pomidorowy)
+Pinsa Ortolana 31.50 zł (ser mozzarella, brokuły, szpinak, rukola, pomidorki, sos pomidorowy)
+Pinsa de Roma 34 zł (ser mozzarella, ser cheddar, ser gouda, ser gorgonzola, orzechy, sos pomidorowy)
+Pinsa Amore Mio 34 zł (ser mozzarella, szynka parmeńska, orzechy, rukola, ser parmezan, sos pomidorowy)
+Pinsa del Contadino 33 zł (ser mozzarella, mięso mielone, pieczarki, boczek, sos pomidorowy)
+Pinsa Salami 31.50 zł (ser mozzarella, salami, sos pomidorowy)
+Pinsa Capricciosa 31.50 zł (ser mozzarella, szynka, pieczarki, sos pomidorowy)
+Pinsa Pepperoni 31.50 zł (ser mozzarella, salami pikantne, pieczarki, papryka, sos pomidorowy)
+
+-- Pizza
+Pizza Margherita 21 zł (ser mozzarella, sos pomidorowy)
+Pizza Tradizionale 26 zł (ser mozzarella, ser pecorino, boczek, pieczarki, sos pomidorowy)
+Pizza Piccante 26 zł (ser mozzarella, boczek, szynka, salami, papryka jalapenio, pieczarki, sos pomidorowy)
+Pizza Ortolana 25 zł (ser mozzarella, brokuły, szpinak, rukola, pomidorki, sos pomidorowy)
+Pizza de Roma 28 zł (ser mozzarella, ser cheddar, ser gouda, ser gorgonzola, orzechy, sos pomidorowy)
+Pizza Amore Mio 29 zł (ser mozzarella, szynka parmeńska, orzechy, rukola, ser parmezan, sos pomidorowy)
+Pizza del Contadino 28 zł (ser mozzarella, mięso mielone, pieczarki, boczek, sos pomidorowy)
+Pizza Salami 26 zł (ser mozzarella, salami, sos pomidorowy)
+Pizza Capricciosa 26 zł (ser mozzarella, szynka, pieczarki, sos pomidorowy)
+Pizza Pepperoni 26 zł (ser mozzarella, salami pikantne, pieczarki, papryka, sos pomidorowy)
+
+-- Pizza wegańska na cieście orkiszowym (tylko 30 cm)
+Zielona Wega 27 zł (mazarella wegańska, mix sałatek, sos pomidorowy)
+Marghe Wega 25 zł (mazarella wegańska, sos pomidorowy)
+Pieczar Wega 30 zł (mazarella wegańska, pieczarki, sos pomidorowy)
+Wega Wega 30 zł (mazarella wegańska, oliwki, pomidorki, kukurydza, rukola, sos pomidorowy)
+Ananas Wega 30 zł (mazarella wegańska,ananas,kukurydza,sos pomidorowy)
+Garden Wega 30 zł (mazarella wegańska, brokuł, szpinak, sos pomidorowy)
+Brocco Wega 30 zł (mazarella wegańska, brokuły, pomidorki, sos pomidorowy)
+Diablo Wega 30 zł(mazarella wegańska, pieczarki, papryka jalapeno, sos pomidorowy)
+Marinera Wega 20 zł (mazarella wegańska, oregano, olej,oliwki,czosnek, sos pomidorowy)
+Calzone Wega 26 zł (mazarella wegańska pieczarki, oliwki.pomidory, kukurydza, sos pomidorowy)
+
+-- Pinsa wegańska
+Zielona Wega 35 zł ( mazarella wegańska, mix sałatek, sos pomidorowy)
+Marghe Wega 31.50 zł (mazarella wegańska, sos pomidorowy)
+Pieczar Wega 39.50 zł(mazarella wegańska, pieczarki, sos pomidorowy)
+Wega Wega 39.50 zł (mazarella wegańska, oliwki, pomidorki, kukurydza, rukola, sos pomidorowy)
+Ananas Wega 39.50 zł (mazarella wegańska,ananas,kukurydza,sos pomidorowy)
+Garden Wega 39.50 zł (mazarella wegańska, brokuł, szpinak, sos pomidorowy)
+Brocco Wega 39.50 zł (mazarella wegańska, brokuły, pomidorki, sos pomidorowy)
+Diablo Wega 39.50 zł (mazarella wegańska, pieczarki, papryka jalapeno, sos pomidorowy)
+Marinera Wega 26.50 zł (mazarella wegańska, oregano, olej,oliwki,czosnek, sos pomidorowy)
+Calzone Wega 26 zł (mazarella wegańska pieczarki, oliwki.pomidory, kukurydza, sos pomidorowy)
+
+-- Calzone
+Calzone szynka - Mozarella, sos pomidorowy, pieczarki, szynka 23 zł
+Calzone salami - Mozarella, sos pomidorowy, pieczarki, salami 23 zł
+Calzone pikantne - Mozarella, sos pomidorowy, pieczarki, pikantne salami, papryczka jalapeno 23 zł
+Calzone vegetariana - Mozarella, sos pomidorowy, pieczarki, oliwki, pomidorki, kukurydza 23 zł
+Calzone wega - wegański ser violife, sos pomidorowy, pieczarki, oliwki, pomidorki, kukurydza 25 zł

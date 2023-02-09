@@ -1,10 +1,25 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import App from './App'
+import { createBrowserRouter, RouterProvider } from 'react-router-dom'
+
+import LandingPage from './pages/Landing'
+import OrderPage from './pages/Order'
+
 import './index.css'
+
+const router = createBrowserRouter([
+  {
+    path: '/',
+    element: <LandingPage></LandingPage>,
+  },
+  {
+    path: '/order',
+    element: <OrderPage />,
+  },
+])
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
   <React.StrictMode>
-    <App />
+    <RouterProvider router={router}></RouterProvider>
   </React.StrictMode>
 )

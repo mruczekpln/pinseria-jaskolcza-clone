@@ -1,4 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 @tailwind variants;
+
+::-webkit-scrollbar-button {
+  display: none;
+}
+
+body,
+#root {
+  width: 100dvw;
+  width: 100vw;
+
+  height: 100dvh;
+  height: 100vh;
+
+  overflow-x: hidden;
+}
+
+.scrollbar-track {
+  background-color: transparent !important;
+}
+
+.scrollbar-track-y {
+  width: 12px !important;
+}
+
+.scrollbar-thumb {
+  width: 12px !important;
+  background: none !important;
+  border-radius: 0 !important;
+  position: relative;
+  border-width: 2px 0;
+  border-color: black;
+}
+
+.scrollbar-thumb::before {
+  content: 'P I Z Z A';
+  font-weight: bold;
+  display: block !important;
+  position: relative;
+  left: 2.5px;
+  top: 25px;
+  /* writing-mode: vertical-rl;
+  text-orientation: upright; */
+  /* transform: rotate(-90deg); */
+}

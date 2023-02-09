@@ -1,0 +1,227 @@
+[
+	{
+		"_id": 1,
+		"name": "Pinsa",
+		"positions": [
+			{ "_id": 1, "name": "Pinsa Margherita", "desc": "ser mozzarella, sos pomidorowy", "price": 27.5 },
+			{
+				"_id": 2,
+				"name": "Pinsa Tradizionale",
+				"desc": "ser mozzarella, ser pecorino, boczek, pieczarki, sos pomidorowy",
+				"price": 33
+			},
+			{
+				"_id": 3,
+				"name": "Pinsa Piccante",
+				"desc": "ser mozzarella, boczek, szynka, salami, papryka jalapenio, pieczarki, sos pomidorowy",
+				"price": 33
+			},
+			{
+				"_id": 4,
+				"name": "Pinsa Ortolana",
+				"desc": "ser mozzarella, brokuły, szpinak, rukola, pomidorki, sos pomidorowy",
+				"price": 31.5
+			},
+			{
+				"_id": 5,
+				"name": "Pinsa de Roma",
+				"desc": "ser mozzarella, ser cheddar, ser gouda, ser gorgonzola, orzechy, sos pomidorowy",
+				"price": 34
+			},
+			{
+				"_id": 6,
+				"name": "Pinsa Amore Mio",
+				"desc": "ser mozzarella, szynka parmeńska, orzechy, rukola, ser parmezan, sos pomidorowy",
+				"price": 34
+			},
+			{
+				"_id": 7,
+				"name": "Pinsa del Contadino",
+				"desc": "ser mozzarella, mięso mielone, pieczarki, boczek, sos pomidorowy",
+				"price": 33
+			},
+			{ "_id": 8, "name": "Pinsa Salami", "desc": "ser mozzarella, salami, sos pomidorowy", "price": 31.5 },
+			{
+				"_id": 9,
+				"name": "Pinsa Capricciosa",
+				"desc": "ser mozzarella, szynka, pieczarki, sos pomidorowy",
+				"price": 31.5
+			},
+			{
+				"_id": 10,
+				"name": "Pinsa Pepperoni",
+				"desc": "ser mozzarella, salami pikantne, pieczarki, papryka, sos pomidorowy",
+				"price": 31.5
+			}
+		]
+	},
+	{
+		"_id": 2,
+		"name": "Pizza",
+		"positions": [
+			{ "_id": 11, "name": "Pizza Margherita", "desc": "ser mozzarella, sos pomidorowy", "price": 21 },
+			{
+				"_id": 12,
+				"name": "Pizza Tradizionale",
+				"desc": "ser mozzarella, ser pecorino, boczek, pieczarki, sos pomidorowy",
+				"price": 26
+			},
+			{
+				"_id": 13,
+				"name": "Pizza Piccante",
+				"desc": "ser mozzarella, boczek, szynka, salami, papryka jalapenio, pieczarki, sos pomidorowy",
+				"price": 26
+			},
+			{
+				"_id": 14,
+				"name": "Pizza Ortolana",
+				"desc": "ser mozzarella, brokuły, szpinak, rukola, pomidorki, sos pomidorowy",
+				"price": 25
+			},
+			{
+				"_id": 15,
+				"name": "Pizza de Roma",
+				"desc": "ser mozzarella, ser cheddar, ser gouda, ser gorgonzola, orzechy, sos pomidorowy",
+				"price": 28
+			},
+			{
+				"_id": 16,
+				"name": "Pizza Amore Mio",
+				"desc": "ser mozzarella, szynka parmeńska, orzechy, rukola, ser parmezan, sos pomidorowy",
+				"price": 29
+			},
+			{
+				"_id": 17,
+				"name": "Pizza del Contadino",
+				"desc": "ser mozzarella, mięso mielone, pieczarki, boczek, sos pomidorowy",
+				"price": 28
+			},
+			{ "_id": 18, "name": "Pizza Salami", "desc": "ser mozzarella, salami, sos pomidorowy", "price": 26 },
+			{
+				"_id": 19,
+				"name": "Pizza Capricciosa",
+				"desc": "ser mozzarella, szynka, pieczarki, sos pomidorowy",
+				"price": 26
+			},
+			{
+				"_id": 20,
+				"name": "Pizza Pepperoni",
+				"desc": "ser mozzarella, salami pikantne, pieczarki, papryka, sos pomidorowy",
+				"price": 26
+			}
+		]
+	},
+	{
+		"_id": 3,
+		"name": "Pizza wegańska na cieście orkiszowym (tylko 30 cm)",
+		"positions": [
+			{ "_id": 21, "name": "Zielona Wega", "desc": "mazarella wegańska, mix sałatek, sos pomidorowy", "price": 27 },
+			{ "_id": 22, "name": "Marghe Wega", "desc": "mazarella wegańska, sos pomidorowy", "price": 25 },
+			{ "_id": 23, "name": "Pieczar Wega", "desc": "mazarella wegańska, pieczarki, sos pomidorowy", "price": 30 },
+			{
+				"_id": 24,
+				"name": "Wega Wega",
+				"desc": "mazarella wegańska, oliwki, pomidorki, kukurydza, rukola, sos pomidorowy",
+				"price": 30
+			},
+			{ "_id": 25, "name": "Ananas Wega", "desc": "mazarella wegańska,ananas,kukurydza,sos pomidorowy", "price": 30 },
+			{ "_id": 26, "name": "Garden Wega", "desc": "mazarella wegańska, brokuł, szpinak, sos pomidorowy", "price": 30 },
+			{
+				"_id": 27,
+				"name": "Brocco Wega",
+				"desc": "mazarella wegańska, brokuły, pomidorki, sos pomidorowy",
+				"price": 30
+			},
+			{
+				"_id": 28,
+				"name": "Diablo Wega",
+				"desc": "mazarella wegańska, pieczarki, papryka jalapeno, sos pomidorowy",
+				"price": 30
+			},
+			{
+				"_id": 29,
+				"name": "Marinera Wega",
+				"desc": "mazarella wegańska, oregano, olej,oliwki,czosnek, sos pomidorowy",
+				"price": 20
+			},
+			{
+				"_id": 30,
+				"name": "Calzone Wega",
+				"desc": "mazarella wegańska pieczarki, oliwki.pomidory, kukurydza, sos pomidorowy",
+				"price": 26
+			}
+		]
+	},
+	{
+		"_id": 4,
+		"name": "Pinsa wegańska",
+		"positions": [
+			{ "_id": 31, "name": "Zielona Wega", "desc": " mazarella wegańska, mix sałatek, sos pomidorowy", "price": 35 },
+			{ "_id": 32, "name": "Marghe Wega", "desc": "mazarella wegańska, sos pomidorowy", "price": 31.5 },
+			{ "_id": 33, "name": "Pieczar Wega", "desc": "mazarella wegańska, pieczarki, sos pomidorowy", "price": 39.5 },
+			{
+				"_id": 34,
+				"name": "Wega Wega",
+				"desc": "mazarella wegańska, oliwki, pomidorki, kukurydza, rukola, sos pomidorowy",
+				"price": 39.5
+			},
+			{ "_id": 35, "name": "Ananas Wega", "desc": "mazarella wegańska,ananas,kukurydza,sos pomidorowy", "price": 39.5 },
+			{
+				"_id": 36,
+				"name": "Garden Wega",
+				"desc": "mazarella wegańska, brokuł, szpinak, sos pomidorowy",
+				"price": 39.5
+			},
+			{
+				"_id": 37,
+				"name": "Brocco Wega",
+				"desc": "mazarella wegańska, brokuły, pomidorki, sos pomidorowy",
+				"price": 39.5
+			},
+			{
+				"_id": 38,
+				"name": "Diablo Wega",
+				"desc": "mazarella wegańska, pieczarki, papryka jalapeno, sos pomidorowy",
+				"price": 39.5
+			},
+			{
+				"_id": 39,
+				"name": "Marinera Wega",
+				"desc": "mazarella wegańska, oregano, olej,oliwki,czosnek, sos pomidorowy",
+				"price": 26.5
+			},
+			{
+				"_id": 40,
+				"name": "Calzone Wega",
+				"desc": "mazarella wegańska pieczarki, oliwki.pomidory, kukurydza, sos pomidorowy",
+				"price": 26
+			}
+		]
+	},
+	{
+		"_id": 5,
+		"name": "Calzone",
+		"positions": [
+			{ "_id": 41, "name": "Calzone szynka", "desc": "Mozarella, sos pomidorowy, pieczarki, szynka", "price": 23 },
+			{ "_id": 42, "name": "Calzone salami", "desc": "Mozarella, sos pomidorowy, pieczarki, salami", "price": 23 },
+			{
+				"_id": 43,
+				"name": "Calzone pikantne",
+				"desc": "Mozarella, sos pomidorowy, pieczarki, pikantne salami, papryczka jalapeno",
+				"price": 23
+			},
+			{
+				"_id": 44,
+				"name": "Calzone vegetariana",
+				"desc": "Mozarella, sos pomidorowy, pieczarki, oliwki, pomidorki, kukurydza",
+				"price": 23
+			},
+			{
+				"_id": 45,
+				"name": "Calzone wega",
+				"desc": "wegański ser violife, sos pomidorowy, pieczarki, oliwki, pomidorki, kukurydza",
+				"price": 25
+			}
+		]
+	}
+]
